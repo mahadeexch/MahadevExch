@@ -8,7 +8,7 @@ export default function Contact() {
       <div className="flex space-x-12 text-5xl">
         {/* WhatsApp */}
         <a
-          href="https://wa.me/8989831318"
+          href="https://wa.me/918989831318"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="WhatsApp"
