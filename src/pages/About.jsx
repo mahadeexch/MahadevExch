@@ -32,15 +32,14 @@ export default function About() {
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           width: '100vw',
-          height: '90vh',
+          height: '50vh',
         }}
       >
-        {/* Optional content over image */}
       </section>
 
     <div className="bg-black text-white">
       {/* About Section */}
-      <section className="pt-24 pb-24 px-6 min-h-screen max-w-6xl mx-auto space-y-20">
+      <section className="pt-10 pb-24 px-6 min-h-screen max-w-6xl mx-auto space-y-20">
         <div>
           <h2 className="text-3xl font-extrabold flex items-center gap-3 text-indigo-400 mb-4">
             <span className="w-6 h-6 border-2 border-indigo-400 rounded-full"></span>
