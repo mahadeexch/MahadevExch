@@ -30,18 +30,18 @@ export default function Home() {
 
         <div className="relative z-10 bg-black bg-opacity-40 p-10 rounded-3xl max-w-3xl mx-auto flex flex-col items-center shadow-lg">
           <div className="w-32 h-32 rounded-full overflow-hidden border-8 border-indigo-400 shadow-xl mb-8">
-            <img src={Logo} alt="Mahadev Book Logo" className="object-cover w-full h-full" />
+            <img src={Logo} alt="Mahadev Exch Logo" className="object-cover w-full h-full" />
           </div>
           <h1 className="text-6xl font-extrabold mb-6 text-white-400 drop-shadow-lg">
           Welcome to 
           </h1>
           
           <h1 className="text-6xl font-extrabold mb-6 text-indigo-400 drop-shadow-lg">
-            Mahadev Book
+            Mahadev Exch
           </h1>
 
           <p className="text-2xl mb-6 max-w-3xl mx-auto font-semibold text-white drop-shadow-md">
-            THE MAHADEV GUARANTEE WITHDRAWAL IN 60 MINUTES - OR ELSE MONEY DOUBLE, Best Service
+            THE MAHADEV EXCH GUARANTEE WITHDRAWAL IN 60 MINUTES - OR ELSE MONEY DOUBLE, Best Service
           </p>
 
           <p className="mb-8 max-w-3xl mx-auto text-lg text-indigo-300">
@@ -217,7 +217,6 @@ export default function Home() {
   </div>
 </section>
 
-
       {/* Blog Section */}
 <section
   className="relative py-20 px-6"
@@ -305,9 +304,9 @@ export default function Home() {
           {/* Contact Info */}
           <div>
             <h4 className="font-semibold text-white mb-4">CONTACT INFO</h4>
-            <p>Mahadev Book, India</p>
-            <p>Phone: +91 12345 67890</p>
-            <p>Email: info@mahadevbook.com</p>
+            <p>Mahadev Exch Book, India</p>
+            <p>Phone: +91 89898 31318</p>
+            <p>Email: exchmahadev@gmail.com</p>
           </div>
 
           {/* Follow Us */}

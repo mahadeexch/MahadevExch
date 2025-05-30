@@ -13,7 +13,7 @@ export default function Header() {
           <div className="w-10 h-10 rounded-full overflow-hidden border-2 border-indigo-500">
             <img src={logo} alt="MahadevBook Logo" className="object-cover w-full h-full" />
           </div>
-          <span className="font-bold text-2xl tracking-widest text-indigo-400">MahadevBook</span>
+          <span className="font-bold text-2xl tracking-widest text-indigo-400">Mahadev Exch</span>
         </Link>
 
         <nav className="hidden md:flex space-x-8">

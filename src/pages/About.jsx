@@ -27,15 +27,9 @@ export default function About() {
   return (
   <div>
       <section
-        style={{
-          backgroundImage: `url(${aboutus})`,
-          backgroundSize: 'cover',
-          backgroundPosition: 'center',
-          width: '100vw',
-          height: '50vh',
-        }}
-      >
-      </section>
+  className="w-full h-48 sm:h-64 md:h-80 lg:h-[50vh] bg-cover bg-center"
+  style={{ backgroundImage: `url(${aboutus})` }}
+/>
 
     <div className="bg-black text-white">
       {/* About Section */}
@@ -49,7 +43,7 @@ export default function About() {
             Where Betting Meets Integrity, Entertainment, and Innovation..
           </p>
           <p className="leading-relaxed text-gray-300 mb-4">
-            At Rocky Book, we bring the thrill of legal betting right to your fingertips. We're your trusted partner in the exciting world of sports betting and gaming. With a commitment to integrity, transparency, and responsible gaming, we provide a safe and enjoyable betting experience for enthusiasts and novices alike.
+            At Mahadev Exch, we bring the thrill of legal betting right to your fingertips. We're your trusted partner in the exciting world of sports betting and gaming. With a commitment to integrity, transparency, and responsible gaming, we provide a safe and enjoyable betting experience for enthusiasts and novices alike.
           </p>
           <p className="leading-relaxed text-gray-300 mb-4">
             Our story began with a simple idea: to create a betting platform that truly puts the player first. We envisioned a place where enthusiasts could engage with their favorite sports and games in a responsible, secure, and entertaining environment.
@@ -84,9 +78,9 @@ export default function About() {
             <span className="w-6 h-6 border-2 border-indigo-400 rounded-full"></span>
             Join Us
           </h2>
-          <p className="text-xl font-semibold text-yellow-400 mb-4">Join the Rocky Book Community</p>
+          <p className="text-xl font-semibold text-yellow-400 mb-4">Join the Mahadev Exch Community</p>
           <p className="leading-relaxed text-gray-300 mb-4">
-            Join thousands of satisfied customers who trust Rocky Book for their betting needs. Sign up today to explore our offerings, claim exciting bonuses, and become part of the Rocky Book community.
+            Join thousands of satisfied customers who trust Mahadev Exch for their betting needs. Sign up today to explore our offerings, claim exciting bonuses, and become part of the Rocky Book community.
           </p>
           <p className="leading-relaxed text-gray-300 mb-4">
             We promote responsible gaming practices and provide tools to help you stay in control of your betting habits.
@@ -154,8 +148,8 @@ export default function About() {
           <div>
             <h4 className="font-semibold text-white mb-4">CONTACT INFO</h4>
             <p>Mahadev Book, India</p>
-            <p>Phone: +91 12345 67890</p>
-            <p>Email: info@mahadevbook.com</p>
+            <p>Phone: +91 89898 31318</p>
+            <p>Email: exchmahadev@gmail.com</p>
           </div>
 
           {/* Follow Us */}
@@ -191,7 +185,7 @@ export default function About() {
         </div>
 
         <div className="max-w-6xl mx-auto px-6 mt-8 text-center border-t border-gray-700 pt-4">
-          <p>© 2025 Rocky Book. All rights reserved.</p>
+          <p>© 2025 Mahadev Exch. All rights reserved.</p>
         </div>
       </footer>
     </div>
