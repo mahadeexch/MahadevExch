@@ -6,7 +6,7 @@ export default function SocialIcons() {
     <div className="fixed bottom-5 right-5 flex flex-col space-y-4 text-white text-3xl z-50">
       {/* WhatsApp */}
       <a
-        href="https://wa.me/1234567890"
+        href="https://wa.me/918989831318"
         target="_blank"
         rel="noopener noreferrer"
         className="hover:text-green-500 transition-colors"

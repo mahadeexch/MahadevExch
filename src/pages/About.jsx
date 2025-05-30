@@ -33,7 +33,8 @@ export default function About() {
 
     <div className="bg-black text-white">
       {/* About Section */}
-      <section className="pt-10 pb-24 px-6 min-h-screen max-w-6xl mx-auto space-y-20">
+      <section className="pt-6 pb-10 px-4 sm:pt-10 sm:pb-24 sm:px-6 max-w-6xl mx-auto space-y-10 sm:space-y-20">
+
         <div>
           <h2 className="text-3xl font-extrabold flex items-center gap-3 text-indigo-400 mb-4">
             <span className="w-6 h-6 border-2 border-indigo-400 rounded-full"></span>
@@ -97,7 +98,7 @@ export default function About() {
         className="bg-slate-900 text-white py-20 px-6 max-w-6xl mx-auto text-center rounded-lg shadow-lg scroll-mt-24"
       >
         <h2 className="text-4xl font-extrabold mb-12 text-yellow-400">
-          PLAY THE GAME OF YOUR CHOICE
+          PLAY THE GAME OF YOUR CHOICE  
         </h2>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8">
@@ -120,7 +121,7 @@ export default function About() {
       </section>
 
       {/* Custom Footer */}
-      <footer className="bg-black text-gray-400 text-sm py-8 mt-20">
+      <footer className="bg-black text-gray-400 text-sm py-8 mt-10 sm:mt-20">
         <div className="max-w-6xl mx-auto px-6 grid grid-cols-1 md:grid-cols-3 gap-8">
           {/* Quick Links */}
           <div>
